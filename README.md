@@ -50,7 +50,7 @@ The correlation heatmap shows Radio has the strongest relationship with Sales, f
 ## 📁 Project Structure
 
 ```
-CodeAlpha_Sales_Prediction/
+Sales_Prediction/
 ├── Sales Prediction.ipynb    # Main analysis & models
 └── Datasets/
     └── Advertising.csv       # Raw data
@@ -71,4 +71,4 @@ CodeAlpha_Sales_Prediction/
 
 ---
 
-*Built as part of CodeAlpha Data Science Tasks*# CodeAlpha_Sales_Prediction
+
